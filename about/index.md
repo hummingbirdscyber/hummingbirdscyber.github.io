@@ -8,19 +8,16 @@ comments: false
     
 <center>You can access our github page <a href="https://github.com/hummingbirdscyber"><b>here</b></a>.</center>
 
-## We are: 
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## We: 
+* Are a Cyber Team.
+* Are a bunch of university students.
+* Teach people Cyber Security through our own efforts and small-scale projects that we produce.
+* Aim to be first in the field of Cyber Security.
+* Want to contribute to the Cyber Security field.
+* Strive to take advantages of all the areas that help in implementing our objectives.
+* Are also trying to improve ourselves.
 
-## Preview
+## Our Team
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
