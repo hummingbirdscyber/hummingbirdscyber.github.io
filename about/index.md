@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://github.com/hummingbirdscyber"><b>This </b></a> is link with description.</center>
+<center>You can access our github page <a href="https://github.com/hummingbirdscyber"><b>here</b></a>.</center>
 
-## Features
+## We are: 
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
