@@ -1,7 +1,7 @@
 # Site
 title:              Hummingbirds Cyber Team 
 bio:                'Bio.'
-description:        "Description."
+description:        "Group of people love to learn new stuff,program something (mostly unnecessary things) and do CTF."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/hm(2x2).png'
@@ -43,7 +43,7 @@ twitter:            hbscyber
 #facebook:           username
 github-url:         hummingbirdscyber/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          hummingbirds-cyber-team-6b1b4b185/
+linkedin:           company/40810423/
 #xing:              username
 instagram:          hummingbirdscyber
 #lastfm:            username
