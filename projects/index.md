@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Our Projects
-excerpt: 
+excerpt: Projects
 comments: false
 ---
 
